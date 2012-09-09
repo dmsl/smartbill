@@ -1,4 +1,4 @@
-SmartBill
+SmartBill:
 ==========
 
 SmartBill is an easy to use application that lets the user compile his/her grocery bill before proceeding to check-out. 
@@ -17,7 +17,6 @@ Source Authors:
 Affiliation:
 ============
 
-Affiliation:  
 Data Management Systems Laboratory  
 Dept. of Computer Science  
 University of Cyprus  
