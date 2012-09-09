@@ -98,7 +98,7 @@ public class GoogleMapsFullScreenActivity extends MapActivity {
 					(int) (prodList.get(i).getLatitude() * 1e6),
 					(int) (prodList.get(i).getLongitude() * 1e6));
 			OverlayItem overlayitem = new OverlayItem(point, prodList.get(i)
-					.getTitle(), "€" + form.format(prodList.get(i).getPrice()));
+					.getTitle(), "ï¿½" + form.format(prodList.get(i).getPrice()));
 			itemizedOverlay.addOverlay(overlayitem);
 		}
 
@@ -112,7 +112,7 @@ public class GoogleMapsFullScreenActivity extends MapActivity {
 		GeoPoint point1 = new GeoPoint((int) (currentLat * 1e6),
 				(int) (currentLon * 1e6));
 		mapController.animateTo(point1);
-		mapController.setZoom(10);
+		mapController.setZoom(15);
 
 	}
 

@@ -47,9 +47,11 @@ Instructions for obtaining the API-Key: https://developers.google.com/maps/docum
 Bug Reporting:
 ==============
 
-Please report any bugs you come across at:
+A brief report on how the bug can be replicated will be much appreciated.  
+You can send us your bug reports at:
 + Kyriakos Georgiou - kgeorg10@cs.ucy.ac.cy 
-+ Kyriakos Frangeskos - kfrang01@cs.cy.ac.cy
++ Kyriakos Frangeskos - kfrang01@cs.cy.ac.cy  
+
 
 Contact Info:
 =============
