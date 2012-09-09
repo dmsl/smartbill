@@ -30,7 +30,7 @@ The products on the shopping list can be edited at any time by long-presssing th
 + Step 4:  
 SmartBill keeps track of previous locations a product was scanned, the user can see those locations and their respective prices by clicking the "View Full Map" button on the bottom right corner.
 + Step 5:  
-The application is terminated by pressing the "Back" button or through the Menu. The current shopping list and grocery bill will be lost but the scanned products will be permanently saved in the local database.
+The application is terminated by pressing the "Back" button or through the Exit option on the Menu. The current shopping list and grocery bill will be lost but the scanned products will be permanently saved in the local database.
 
 
 Source Code Notes:
