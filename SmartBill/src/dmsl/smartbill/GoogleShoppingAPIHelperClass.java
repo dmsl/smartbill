@@ -42,7 +42,7 @@ import org.json.JSONObject;
  */
 public class GoogleShoppingAPIHelperClass {
 
-	private String SHOPPING_API_KEY = "AIzaSyBu2-udGIeSS0N088dYYpaFUZf0T5S88N4";
+	private String SHOPPING_API_KEY = "ENTER YOUR GOOGLE SEARCH API FOR SHOPPING KEY HERE";
 	
 	/**
 	 * Sends an HTTP request to Google API for Shopping and retrieves a JSON
