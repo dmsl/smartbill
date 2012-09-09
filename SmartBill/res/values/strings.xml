@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (C) 2010 ZXing authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">SmartBill</string>
+    <string name="app_picker_name">Applications</string>
+    <string name="menu_about">About</string>
+    <string name="menu_help">Help</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_google_books">Google Books</string>
+    <string name="msg_google_product">Google Product Search</string>
+    <string name="msg_google_shopper_missing">Google Shopper is not installed</string>
+    <string name="msg_install_google_shopper">Google Shopper combines barcode scanning with online and local prices, reviews and more without opening the browser. Would you like to try it?</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_searching_book">Searching book\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_sbc_unknown_page">Unknown page</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_subject_line">Here are the contents of a barcode I scanned</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="button_delete_item_yes">Yes</string>
+    <string name="button_delete_item_no">No</string>
+    <string name="tvInstructionsStr">"Scan a product's barcode through the rectangle to retrieve its information and start building your shopping list"</string>
+    <string name="tvBillStr">"€00.00"</string>
+    <string name="tvBasketCountStr">"0"</string>
+    <string name="tvFullMap">"On the full map you can see other places that your current product was scanned along with its respective price."</string>
+    <string name="bFullMap">"View Full Map"</string>
+    <string name="strBackMap">"Back"</string>
+    <string name="strHelpMenu">"> 1. Put a product's barcode inside the scanner's rectangle (steady handling of the phone and good lighting make results faster).\n\n"
+							> "2. You can also manually enter a barcode through the applications menu.\n\n"
+							> "3. When a barcode is scanned successfully you will hear a \"beep\" sound (if you can't hear it, you might need to adjust your phone's sound volume).\n\n"
+							> "4. The application will indicate if the scanned product was found, show its title, price, and add it in your shopping list.\n\n"
+							> "5. If the product was not recognised by SmartBill, you will be asked to manually input the product's information which will be permanently saved for future use.\n\n"
+							> "6. You can edit or delete any item from your list by long-pressing it on the list.\n\n"
+							> "7. On the top right of the screen you can see indications of how many products you have scanned and your bill's state.\n\n"
+							> "8. You can click the button on the bottom right corner to view the map in full screen along with the locations that your current product was scanned before."</string>
+    <string name="strAbutMenu">"SmartBill implemented by\nKyriakos Georgiou\nKyriakos Frangeskos\n2012\n\nAffiliation:\n"
+							"Data Management Systems Laboratory\n"
+							"Dept. of Computer Science\n"
+							"University of Cyprus\n"
+							"P.O. Box 20537\n"
+							"1678 Nicosia, CYPRUS\n"
+							"Web: http://dmsl.cs.ucy.ac.cy/\n"
+							"Email: dmsl@cs.ucy.ac.cy\n"
+							"Tel: +357-22-892755\n"
+							"Fax: +357-22-892701"</string>
+
+</resources>

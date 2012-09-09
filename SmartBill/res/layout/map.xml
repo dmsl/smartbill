@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.google.android.maps.MapView
+        android:id="@+id/map_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="0kNbpd9XYc5ZGPdFyNraGxB4iK8-Kq2RBij-X4A"
+        android:clickable="true"
+        android:enabled="true" />
+
+    <Button
+        android:id="@+id/bBackFromMap"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/strBackMap"
+        android:layout_margin="5dp" />
+
+</RelativeLayout>
