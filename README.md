@@ -54,7 +54,7 @@ The API-Key for Google API for Shopping is missing, you will need to retrieve yo
 Instructions for obtaining the API-Key: https://developers.google.com/shopping-search/v1/getting_started#getting-started
 
 + 2:  
-The API Key for Google Maps is missing, you will need to retrieve your own and place it in the capture.xml and map.xml files.
+The API-Key for Google Maps is missing, you will need to retrieve your own and place it in the capture.xml and map.xml files.
 Instructions for obtaining the API-Key: https://developers.google.com/maps/documentation/android/mapkey
 
 Bug Reporting:
