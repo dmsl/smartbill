@@ -1,5 +1,5 @@
-SmartBill
-=========
+SmartBill License
+=================
  
 Copyright (C) 2012 Kyriakos Georgiou & Kyriakos Frangeskos  
   

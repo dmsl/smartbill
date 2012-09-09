@@ -1,4 +1,4 @@
-SmartBill
+SmartBill:
 ==========
 
 SmartBill is an easy to use application that lets the user compile his/her grocery bill before proceeding to check-out. 
@@ -12,21 +12,7 @@ Source Authors:
 + Kyriakos Georgiou
 + Kyriakos Frangeskos
 
-+ Authors of the ZXing Barcode Scanner library (https://code.google.com/p/zxing/)
-
-Affiliation:
-============
-
-Affiliation:  
-Data Management Systems Laboratory  
-Dept. of Computer Science  
-University of Cyprus  
-P.O. Box 20537  
-1678 Nicosia, CYPRUS  
-Web: http://dmsl.cs.ucy.ac.cy/  
-Email: dmsl@cs.ucy.ac.cy  
-Tel: +357-22-892755  
-Fax: +357-22-892701  
++ Authors of the ZXing Barcode Scanner library (https://code.google.com/p/zxing/) 
 
 How to use SmartBill:
 =====================
@@ -44,7 +30,7 @@ The products on the shopping list can be edited at any time by long-presssing th
 + Step 4:  
 SmartBill keeps track of previous locations a product was scanned, the user can see those locations and their respective prices by clicking the "View Full Map" button on the bottom right corner.
 + Step 5:  
-The application is terminated by pressing the "Back" button or through the Menu. The current shopping list and grocery bill will be lost but the scanned products will be permanently saved in the local database.
+The application is terminated by pressing the "Back" button or through the Exit option on the Menu. The current shopping list and grocery bill will be lost but the scanned products will be permanently saved in the local database.
 
 
 Source Code Notes:
@@ -55,7 +41,7 @@ The API-Key for Google API for Shopping is missing, you will need to retrieve yo
 Instructions for obtaining the API-Key: https://developers.google.com/shopping-search/v1/getting_started#getting-started
 
 + 2:  
-The API Key for Google Maps is missing, you will need to retrieve your own and place it in the capture.xml and map.xml files.
+The API-Key for Google Maps is missing, you will need to retrieve your own and place it in the capture.xml and map.xml files.
 Instructions for obtaining the API-Key: https://developers.google.com/maps/documentation/android/mapkey
 
 Bug Reporting:
@@ -71,3 +57,16 @@ Contact Info:
 + Kyriakos Georgiou - kgeorg10@cs.ucy.ac.cy
 + Kyriakos Frangeskos - kfrang01@cs.cy.ac.cy
 + DSML - http://dmsl.cs.ucy.ac.cy/#contact
+
+Affiliation:
+============
+
+Data Management Systems Laboratory  
+Dept. of Computer Science  
+University of Cyprus  
+P.O. Box 20537  
+1678 Nicosia, CYPRUS  
+Web: http://dmsl.cs.ucy.ac.cy/  
+Email: dmsl@cs.ucy.ac.cy  
+Tel: +357-22-892755  
+Fax: +357-22-892701 
