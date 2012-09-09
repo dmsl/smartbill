@@ -62,8 +62,7 @@ Bug Reporting:
 ==============
 
 Please report any bugs you come across at:
-+ Kyriakos Georgiou - kgeorg10@cs.ucy.ac.cy  
-or
++ Kyriakos Georgiou - kgeorg10@cs.ucy.ac.cy 
 + Kyriakos Frangeskos - kfrang01@cs.cy.ac.cy
 
 Contact Info:
