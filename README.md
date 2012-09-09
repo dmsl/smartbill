@@ -12,20 +12,7 @@ Source Authors:
 + Kyriakos Georgiou
 + Kyriakos Frangeskos
 
-+ Authors of the ZXing Barcode Scanner library (https://code.google.com/p/zxing/)
-
-Affiliation:
-============
-
-Data Management Systems Laboratory  
-Dept. of Computer Science  
-University of Cyprus  
-P.O. Box 20537  
-1678 Nicosia, CYPRUS  
-Web: http://dmsl.cs.ucy.ac.cy/  
-Email: dmsl@cs.ucy.ac.cy  
-Tel: +357-22-892755  
-Fax: +357-22-892701  
++ Authors of the ZXing Barcode Scanner library (https://code.google.com/p/zxing/) 
 
 How to use SmartBill:
 =====================
@@ -70,3 +57,16 @@ Contact Info:
 + Kyriakos Georgiou - kgeorg10@cs.ucy.ac.cy
 + Kyriakos Frangeskos - kfrang01@cs.cy.ac.cy
 + DSML - http://dmsl.cs.ucy.ac.cy/#contact
+
+Affiliation:
+============
+
+Data Management Systems Laboratory  
+Dept. of Computer Science  
+University of Cyprus  
+P.O. Box 20537  
+1678 Nicosia, CYPRUS  
+Web: http://dmsl.cs.ucy.ac.cy/  
+Email: dmsl@cs.ucy.ac.cy  
+Tel: +357-22-892755  
+Fax: +357-22-892701 
