@@ -8,7 +8,7 @@
         android:id="@+id/map_view"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:apiKey="0kNbpd9XYc5ZGPdFyNraGxB4iK8-Kq2RBij-X4A"
+        android:apiKey="ENTER YOUR GOOGLE MAPS API KEY HERE"
         android:clickable="true"
         android:enabled="true" />
 
