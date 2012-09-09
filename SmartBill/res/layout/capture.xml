@@ -155,7 +155,7 @@
                 android:layout_height="150dp"
                 android:layout_gravity="bottom|center"
                 android:layout_weight="35"
-                android:apiKey="0kNbpd9XYc5ZGPdFyNraGxB4iK8-Kq2RBij-X4A"
+                android:apiKey="ENTER YOUR GOOGLE MAPS API KEY HERE"
                 android:clickable="true" />
 
             <LinearLayout
